@@ -1,6 +1,6 @@
 # embedchain-showcase
 
-A very basic application to showcase the use of the [embedchain](https://github.com/embedchain/embedchain) library.
+A very basic application to showcase the use of the [embedchain](https://github.com/embedchain/embedchain) framework.
 
 First, `export OPENAI_API_KEY=YOUR_API_KEY` in your terminal.
 
