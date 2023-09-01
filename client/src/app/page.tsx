@@ -3,7 +3,7 @@ import Query from "@/app/query";
 
 export default function Home() {
     return (<main>
-        <h1>something</h1>
+        <h1>melon-tusk-bot</h1>
         <section>
             <h2>Upload</h2>
             <FileUpload/>
